@@ -1,5 +1,5 @@
-# Neuro-LexaVercel-neurolexxa
-Обновление раз в 12 часов.
+#profile-title: мое
+#profile-update-interval: 24
 
 vless://fba0f717-c14c-fade-b85b-4cd03da2f687@195.209.82.149:443?encryption=none&security=tls&type=ws&sni=s28233.cdn.ngenix.net&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&host=s28233.cdn.ngenix.net&path=%2F#%F0%9F%87%B7%F0%9F%87%BAN%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+58
 vless://6e42b88a-b78f-fade-b164-791160cbaef5@195.209.90.178:443?encryption=none&security=tls&type=ws&sni=s28233.cdn.ngenix.net&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&host=s28233.cdn.ngenix.net&path=%2F#%F0%9F%87%B7%F0%9F%87%BAN%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+59
