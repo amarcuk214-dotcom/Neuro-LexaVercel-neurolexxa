@@ -1,6 +1,3 @@
-#profile-title: 26
-#profile-update-interval: 24
-
 vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&security=tls&type=ws&sni=cdn.tracker.yandex.net&fp=chrome&host=cdn.lovecrafty.link&path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dfd7f-0777-6283-7287-911777c3720f4#%5B%F0%9F%87%B3%F0%9F%87%B1%5D+%5Bvl-tl-ws%5D+%5B260510-014155.718%5D
 vless://0214b533-1749-4a41-8e72-6e4d6dd6c69d@79.174.95.200:5452?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=st.kinopoisk.ru&fp=random&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=f543a7a8ec616e07&spx=%2F#4Sarina-5202
 vless://2a5d0347-9898-4e28-ba75-8ec7887d3155@79.174.95.200:5447?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=st.okcdn.ru&fp=random&pbk=OtGux0Ty5TSzfIvlHVd4q_TdYbRUHKbS8WCxmpHJx18&sid=542c8ba8f82ea453&spx=%2F#4Sarina-5806
