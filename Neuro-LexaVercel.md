@@ -1,9 +1,1 @@
-#profile-title: мое
-#profile-update-interval: 24
-
-vless://fba0f717-c14c-fade-b85b-4cd03da2f687@195.209.82.149:443?encryption=none&security=tls&type=ws&sni=s28233.cdn.ngenix.net&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&host=s28233.cdn.ngenix.net&path=%2F#%F0%9F%87%B7%F0%9F%87%BAN%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+58
-vless://6e42b88a-b78f-fade-b164-791160cbaef5@195.209.90.178:443?encryption=none&security=tls&type=ws&sni=s28233.cdn.ngenix.net&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&host=s28233.cdn.ngenix.net&path=%2F#%F0%9F%87%B7%F0%9F%87%BAN%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+59
-vless://34954be5-333b-fade-ab1e-00c7df47eb28@195.209.90.178:443?encryption=none&security=tls&type=ws&sni=s28233.cdn.ngenix.net&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&host=s28233.cdn.ngenix.net&path=%2F#%F0%9F%87%B7%F0%9F%87%BAN%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+60
-vless://6e42b88a-b78f-fade-b164-791160cbaef5@195.209.88.180:443?encryption=none&security=tls&type=ws&sni=s28233.cdn.ngenix.net&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&host=s28233.cdn.ngenix.net&path=%2F#%F0%9F%87%B7%F0%9F%87%BAN%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+61
-vless://18f88fb7-470f-fade-8da9-b57f35009c6d@195.209.88.216:443?encryption=none&security=tls&type=ws&sni=s28233.cdn.ngenix.net&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&host=s28233.cdn.ngenix.net&path=%2F#%F0%9F%87%B7%F0%9F%87%BAN%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+62
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&security=tls&type=ws&sni=cdn.tracker.yandex.net&insecure=0&allowInsecure=0&host=cdn.lovecrafty.link&path=%2Fstream%2Fupdates%2F130cdea4%2F019dee35-0199-dd7e-7323-a62ad725bba07#%F0%9F%87%A6%F0%9F%87%AAN%D0%B5%D0%B9%D1%80%D0%BE+-+Lexa+Vercel+64
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?flow=&fp=chrome&host=cdn.lovecrafty.link&path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dee35-0199-eeb7-718d-b21a426c1f478&security=tls&sni=cdn.tracker.yandex.net&type=ws#🚀Нейро - Lexa Vercel 029
